@@ -1,10 +1,11 @@
-PROJECT 4. This project was made with the collaboration of 3 CSC171 students:
-Names:  Darman Khan  (Net ID: dkhan2), Sufian Mushtaq (Net ID: smushtaq), Bahawar Dhillon(Net ID: bdhillon)
+
+This program builds a version of the popular Lob Pong game and was a project in the CSC171 course at the University of Rochester.
+Collaborators:  Darman Khan  (Net ID: dkhan2), Sufian Mushtaq (Net ID: smushtaq), Bahawar Dhillon(Net ID: bdhillon)
 	   
 User's guide: Press SPACE to start the game. The player controls a paddle with the LEFT and RIGHT arrow keys to prevent a ball from falling to the bottom 
 of the screen. Player scores a point every time the paddle intercepts the ball. The highest score in the game is saved.
 
-This project builds a game "Lob Pong" where the goal is to prevent a ball, which follows the trajectory of a projectile, from falling to the bottom. 
+The goal is to prevent a ball, which follows the trajectory of a projectile, from falling to the bottom. 
 The project is made using three classes: GameCanvas, MyApp and Highscore. The main graphics of the game are drawn in the GameCanvas class, the MyApp 
 class constructs the JFrame and the Highscore class is used to store the highscore by two methods 'read' and 'write'.
 
