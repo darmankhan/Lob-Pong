@@ -1,6 +1,6 @@
 
 This program builds a version of the popular Lob Pong game and was a project in the CSC171 course at the University of Rochester.
-Collaborators:  Darman Khan  (Net ID: dkhan2), Sufian Mushtaq (Net ID: smushtaq), Bahawar Dhillon(Net ID: bdhillon)
+Collaborators:  Darman Khan  (Net ID: dkhan2), Sufian Mushtaq (Net ID: smushtaq), Bahawar Dhillon(Net ID: bdhillon).
 	   
 User's guide: Press SPACE to start the game. The player controls a paddle with the LEFT and RIGHT arrow keys to prevent a ball from falling to the bottom 
 of the screen. Player scores a point every time the paddle intercepts the ball. The highest score in the game is saved.
