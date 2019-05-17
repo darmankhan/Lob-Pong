@@ -1,7 +1,5 @@
 PROJECT 4. This project was made with the collaboration of 3 CSC171 students:
-Names: Sufian Mushtaq (Net ID: smushtaq
-       Bahawar Dhillon(Net ID: bdhillon)
-	   Darman Khan  (Net ID: dkhan2)
+Names:  Darman Khan  (Net ID: dkhan2), Sufian Mushtaq (Net ID: smushtaq), Bahawar Dhillon(Net ID: bdhillon)
 	   
 User's guide: Press SPACE to start the game. The player controls a paddle with the LEFT and RIGHT arrow keys to prevent a ball from falling to the bottom 
 of the screen. Player scores a point every time the paddle intercepts the ball. The highest score in the game is saved.
